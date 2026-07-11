@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="200" valign="top">
-      <img src="https://i.imgur.com/OcVoZlq.png" width="240" />
+      <img src="https://i.imgur.com/e5Lpn2k.jpeg" width="240" />
     </td>
     <td valign="middle">
       <h1 style="border-bottom: none;">
