@@ -27,3 +27,14 @@
 UI Designer.
 
 Tweens • Springs • Components • Animations
+
+<br />
+
+<p align="left">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TestSprites&theme=github_dark" />
+</p>
+
+<p align="left">
+  <img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TestSprites&theme=github_dark" />
+  <img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TestSprites&theme=github_dark" />
+</p>
