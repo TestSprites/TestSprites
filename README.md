@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="200" valign="top">
-      <img src="https://i.imgur.com/lEtqn3i.png" width="240" />
+      <img src="https://i.imgur.com/OcVoZlq.png" width="240" />
     </td>
     <td valign="middle">
       <h1 style="border-bottom: none;">
@@ -28,6 +28,6 @@
 
 ---
 
-TestSprites
-An UI Designer with 4-5 years of experience
-#1 react-flow fan
+UI Designer.
+
+Tweens • Springs • Components • Animations
