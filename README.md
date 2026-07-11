@@ -28,25 +28,6 @@
 
 ---
 
-Engineer.
-
-Frontend • Backend • Systems • Game Tech  
-
-I build the stuff behind the stuff —  
-and the stuff you see.
-
-Rust and tooling are home.  
-UI and visuals matter just as much.
-
----
-
-<br />
-
-<p align="left">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OutOfBears&theme=github_dark" />
-</p>
-
-<p align="left">
-  <img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OutOfBears&theme=github_dark" />
-  <img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OutOfBears&theme=github_dark" />
-</p>
+TestSprites
+An UI Designer with 4-5 years of experience
+#1 react-flow fan
